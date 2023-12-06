@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Code+Pro:wght@300&display=swap');
+
+body {
+    background-color: rgb(255, 221, 127);
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+    color: darkred;
+}
+
+
+.pealkiri-yks{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.pealkiri-kaks{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+.picture {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 25px;
+}
+.ingidients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 25px;
+}
+.table {
+    margin: 0 auto;
+}
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 25px;
+}
+.feedback {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 25px;
+}
+.footer {
+    padding: 25px;
+}
